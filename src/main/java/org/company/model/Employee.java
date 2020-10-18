@@ -1,7 +1,7 @@
 package org.company.model;
 
-public class User {
+public class Employee {
     private String name;
-    private String lastName;
     private int age;
+
 }
