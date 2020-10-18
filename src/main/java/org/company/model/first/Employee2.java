@@ -1,4 +1,4 @@
-package org.company.model;
+package org.company.model.first;
 
 public class Employee2 {
     private String emp2Name;

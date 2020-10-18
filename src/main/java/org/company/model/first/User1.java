@@ -1,4 +1,4 @@
-package org.company.model;
+package org.company.model.first;
 
 public class User1 {
     private String user1Name;
